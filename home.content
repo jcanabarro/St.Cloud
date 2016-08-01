@@ -1,0 +1,32 @@
+Navbar
+    Slogan Login Sign Up | Simulation ID
+    GettingStarted Documentation Download Run{SimulationList;NewSimulation;...}
+
+Jumbotron
+    Accelerate the Development of better method for Design Space Exploration
+
+What is Donner?
+    Donner is a Distributed System, Modular and Collaborative for Design Space Exploration. (Detalhar brevemente o que isso significa)
+    
+Main Features
+    Faster (Distribui a simulacao automaticamente)
+    Modular (Integre os seus proprios metodos e simuladores);
+    Collaborative (Qualquer um pode ajudar na simulacao do seu projeto);
+    Smart (Atualiza o seu metodo de exploracao padrao para o melhor avaliado ate entao).
+    
+Description and Philosophy
+    Detalhar como ele funciona
+    Filosofia (Tudo produzido usando a plataforma e aberto, porem os direitos sao de quem contribuiu com o projeto)
+
+More Feature
+    Benchmark
+    Analysis Tools
+    Pontuacao de Contribuicao por Universidade/Pessoa
+    Estatisticas Pessoais
+    
+Footer
+	Sponsors
+   Terms, Privacy, Security, Contact, Donnation, About...
+
+
+
